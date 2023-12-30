@@ -1,4 +1,4 @@
-<p style="font-size: 20px; font-weight: 900;">Used TMDB API for fetching all the details
+<p style="font-size: 20px; font-weight: 900;">Used TMDB API for fetching all the details</p>
 
 
 **Live Link:** https://cinewavee.netlify.app/

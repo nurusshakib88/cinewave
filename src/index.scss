@@ -1,0 +1,30 @@
+:root {
+  --bg-color: rgb(2, 2, 36);
+  // --bg-color: #000;
+  --primary-color: #00A6DB;
+  --secondary-color: #fff;
+  --header-color: #00000080;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--bg-color);
+  color: #fff;
+  font-family: "DM Sans", sans-serif;
+}
+
+input:focus,
+button:focus {
+  box-shadow: none;
+  outline: 0;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+

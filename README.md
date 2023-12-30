@@ -1,4 +1,4 @@
-<h2>**Used TMDB API for fetching all the details**</h2>
+<h2>Used TMDB API for fetching all the details</h2>
 
 
 **Live Link:** https://cinewavee.netlify.app/
